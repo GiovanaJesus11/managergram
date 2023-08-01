@@ -47,8 +47,9 @@ body {
      font-weight: normal;
      overflow-x: hidden;
      font-family: Raleway;
-     background-color: #FFEDF3;
+     background-color: #FF0054;
 }
+
 
 a {
      color: #1f1f1f;
@@ -257,7 +258,7 @@ button {
 }
 .bg-light {
     background-color: #F4F4F4!important;
-    border-bottom: 10px solid #FF0054;
+    border-bottom: 10px solid #cc1d57;
     padding: 20px 15px;
 }
 .banner_section {
@@ -272,11 +273,12 @@ button {
     width: 100%;
     float: left;
     font-size: 65px;
-    color: #171414;
+    color: #ffffff;
     font-weight: bold;
+    margin-top: 30px;
 }
 .image_1{
-    width: 100%;
+    width: 110%;
     float: left;
 }
 .contact_bt {
@@ -289,13 +291,14 @@ button {
     float: left;
     font-size: 16px;
     color: #ffffff;
-    background-color: #FF0054;
+    background-color: #cc1d57;
     padding: 10px 0px;
     text-align: center;
+    border-radius: 5%;
 }
 .contact_bt a:hover {
     color: #ffffff;
-    background-color: #000;
+    background-color: #cc1d57;
 }
 #my_slider a.carousel-control-prev {
     position: absolute;
@@ -334,22 +337,22 @@ button {
     float: left;
 }
 .image_2{
-    width: 100%;
+    width: 90%;
     float: left;
 }
 .mark_text {
     width: 100%;
     float: left;
     font-size: 36px;
-    color: #171414;
+    color: #ffffff;
     font-weight: bold;
     padding-top: 30px;
 }
 .lorem_text{
     width: 100%;
     float: left;
-    font-size: 16px;
-    color: #646262;
+    font-size: 20px;
+    color: #ffffff;
     margin-left: 0px;
 }
 .solution_section{
